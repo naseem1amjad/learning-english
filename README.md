@@ -137,6 +137,9 @@ Improve your spelling and typing speed, you can even race against yourself and o
 * [Ludyrics](https://ludyrics.com/en) <br />
 Ludyrics is a lyrics-based game platform that offers lyric dictation and word-guessing games alongside song videos.
 
+* [WorDoc](https://play.google.com/store/apps/details?id=com.ajsoftpk.wordoc&hl=en) <br />
+WorDoc is an English Learning Word Puzzle Game available for Android.
+
 ## Podcasts
 
 * [Bloomberg Technology](https://www.bloomberg.com/podcasts/series/bloomberg-technology) <br />
